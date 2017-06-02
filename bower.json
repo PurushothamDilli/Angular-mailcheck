@@ -1,0 +1,20 @@
+{
+  "name": "ng-mailcheck",
+  "description": "AngularJS 1 directive for mailcheck plugin",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "mailcheck",
+    "angular-directive",
+    "ng-mailcheck"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
